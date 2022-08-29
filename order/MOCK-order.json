@@ -1,0 +1,34 @@
+{
+  "message": "Ваш заказ приняты.\nЗаказ будзе гатовы сёння а 18:00",
+  "orders": [
+    {
+      "success": true,
+      "id": "12345",
+      "publicId": "ЗКЗ445566",
+      "uuid": "2d81f6e5-01cb-44ca-abb0-ded88c1fc982",
+      "deliveryPrice": 10,
+      "items": [
+        {
+          "name": "Женские шорты Mark Formelle Женские шорты-юбка длины мини в кофейном цвете",
+          "id": "10",
+          "privateId": "132271",
+          "configurationId": "132271",
+          "price": 29.99,
+          "quantity": 1,
+          "discount": 0,
+          "subtotal": 29.99
+        },
+        {
+          "name": "Прямые брюки со стрелками графитового цвета в ёлочку",
+          "id": "51",
+          "privateId": "181219",
+          "configurationId": "181219",
+          "price": 59.99,
+          "quantity": 1,
+          "discount": 0,
+          "subtotal": 59.99
+        }
+      ]
+    }
+  ]
+}

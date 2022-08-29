@@ -1,0 +1,55 @@
+{
+  "deliveries": [
+    {
+      "id": "regular",
+      "title": "Доставка курьером",
+      "hasPickupLocations": false,
+      "description": "Доставка курьерской службой по города на следующий день",
+      "type": "delivery",
+      "price": 10,
+      "min": 1,
+      "max": 7,
+      "timeLabel": "На следующий день"
+    },
+    {
+      "id": "pickup",
+      "title": "Самовывоз из магазина",
+      "hasPickupLocations": true,
+      "description": "Самовывоз заказа из магазина в день заказа",
+      "type": "pickup",
+      "price": 0,
+      "min": 0,
+      "timeLabel": "В день заказа",
+      "locations": [
+        {
+          "id": "a0001",
+          "title": "Немига",
+          "address": "Немига 5",
+          "city": "Минск",
+          "time": "Каждый день с 10 до 22",
+          "subway": "Няміга",
+          "mall": "",
+          "lat": "53.902207",
+          "lon": "27.549673",
+          "price": 0,
+          "min": 0,
+          "timeLabel": "Сегодня после 14:00"
+        },
+        {
+          "id": "a0002",
+          "title": "Якуба Коласа",
+          "address": "проспект Независимости 56",
+          "city": "Минск",
+          "time": "Каждый день с 10 до 22",
+          "subway": "Якуба Коласа",
+          "mall": "",
+          "lat": "55.8078034",
+          "lon": "37.5054127",
+          "price": 0,
+          "min": 0,
+          "timeLabel": "Сегодня после 14:00"
+        }
+      ]
+    }
+  ]
+}
