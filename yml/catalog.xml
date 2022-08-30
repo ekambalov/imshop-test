@@ -9,202 +9,396 @@
             <category id="2">Мужчинам</category>
         </categories>
         <offers>
-            <offer id="10" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd81">
+            <offer id="132271" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd81">
                 <name>Женские шорты Mark Formelle Женские шорты-юбка длины мини в кофейном цвете</name>
                 <url>https://markformelle.by/catalog/zhenshchinam/mf-life/shorty-bridzhi/132271-300-1050/</url>
-                <sort>1</sort>
+                <sort>5</sort>
                 <vendor>Mark Formelle</vendor>
-                <vendorCode>132271</vendorCode>
-                <model>132271</model>
+                <vendorCode>M001617</vendorCode>
+                <model>Женские шорты Mark Formelle Женские шорты-юбка длины мини в кофейном цвете</model>
                 <typePrefix>Женские шорты</typePrefix>
                 <categoryId>1</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Skits</googleProductCategory>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/7bc/704_880_0/dnejopw5yctsqz2a8ygbykacl0er38gx.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/5d7/ff0mqy8h3sfxyc3xhtzkggz8jb6jryy7.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/567/azphbi774eqdbu86s2t0nkfl737dz1s5.jpg</picture>
-                <currencyId>BYN</currencyId>
+
+                <rating>5</rating>
+                <reviews_count>2</reviews_count>
+
                 <price>29.99</price>
+                <oldprice>39.99</oldprice>
+                <currencyId>BYN</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
                 <vat>VAT_20</vat>
                 <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Модель">132271</param>
+                <param name="Пол">Женские</param>
+                <param name="Материал">Полиэстер</param>
+                <param name="Материал">Эластан </param>
+                <param name="Цвет" hex="#6f4e37">Кофейный</param>
+
+
                 <description>Женские шорты-юбка расширенного силуэта из плотного текстильного полотна. Спереди – декоративная деталь, имитирующая запах. Боковые карманы и эластичная тесьма по поясу добавляют практичности и функциональности. Отличная модель шортов!</description>
             </offer>
-            <offer id="20" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd82">
+            <offer id="172081" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd82">
                 <name>Укороченный прямой жакет в молочно-лавандовую клетку виши</name>
                 <url>https://markformelle.by/catalog/zhenshchinam/mf-life/koftochki-longslivy/zhakety/172081-73305-1050/</url>
-                <sort>2</sort>
+                <sort>4</sort>
                 <vendor>Mark Formelle</vendor>
-                <vendorCode>172081</vendorCode>
-                <model>172081</model>
+                <vendorCode>M001617</vendorCode>
+                <model>Укороченный прямой жакет в молочно-лавандовую клетку виши</model>
                 <typePrefix>Жакет</typePrefix>
                 <categoryId>1</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Outerwear > Coats &amp; Jackets</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/9c0/69uts2vihllnjhsu124qxv4qrgxrnail.jpg</picture>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/b1e/704_880_0/scmuv00iosnhpkeusiqcsre0ijj7966k.jpg</picture>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/d3b/704_880_0/dt8h08r7mxeooqibop3ngsp7mhc4y0p9.jpg</picture>
-                <currencyId>BYN</currencyId>
+
+                <rating>5</rating>
+                <reviews_count>2</reviews_count>
+
                 <price>69.99</price>
+                <oldprice>84.99</oldprice>
+                <currencyId>BYN</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
                 <vat>VAT_20</vat>
                 <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Модель">172081</param>
+                <param name="Пол">Женские</param>
+                <param name="Материал">Полиэстер</param>
+                <param name="Материал">Эластан </param>
+                <param name="Материал">Вискоза</param>
+                <param name="Цвет" hex="#e8cbbc">Лаванда</param>
                 <description>Женский укороченный жакет прямого силуэта из трикотажного академика. По спинке проходит средний шов. Спереди жакет застегивается на пуговицы. Есть два накладных кармана. Рукава длинные, классические. Рекомендуем для стильных образов!</description>
             </offer>
-            <offer id="30" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd83">
+            <offer id="112664" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd83">
                 <name>Укороченная свободная футболка в оттенке "темно-серый фаст-дай"</name>
                 <url>https://markformelle.by/catalog/zhenshchinam/mf-life/futbolki-topy/112664-75531-59630/</url>
                 <sort>3</sort>
                 <vendor>Mark Formelle</vendor>
-                <vendorCode>112664</vendorCode>
-                <model>Укороченная свободная футболка</model>
+                <vendorCode>M001617</vendorCode>
+                <model>Укороченная свободная футболка в оттенке "темно-серый фаст-дай"</model>
                 <typePrefix>Женские футболки и топы</typePrefix>
                 <categoryId>1</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > T-shorts</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/481/r4otc7rkatra2c9n220ugmjjqt5ea3c0.jpg</picture>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/00e/704_880_0/hl48ghe34umb7cgsf6d1uqah050olyh7.jpg</picture>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/858/704_880_0/fw1cqcjwig49w1j054s3xvuy079l3h86.jpg</picture>
-                <currencyId>BYN</currencyId>
+
+                <rating>5</rating>
+                <reviews_count>2</reviews_count>
+
                 <price>22.99</price>
+                <currencyId>BYN</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
                 <vat>VAT_20</vat>
                 <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Модель">112664</param>
+                <param name="Пол">Женские</param>
+                <param name="Материал">Хлопок</param>
+                <param name="Цвет" hex="#333333">Тёмно-серый</param>
+
                 <description>Укороченная женская футболка из хлопковой кулирки. Силуэт свободный, оверсайз. Вырез круглой формы. Плечо спущено, пройма углублена – это делает движения максимально комфортными. Рукава длиной до локтя или чуть выше. Благодаря особой технике окрашивания фаст-дай двух одинаковых футболок не найти – все они будут немного отличаться друг от друга. Стильная модель!</description>
             </offer>
-            <offer id="40" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd84">
+            <offer id="182442" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd84">
                 <name>Расклешенные однотонные брюки с широким поясом в кофейном оттенке</name>
                 <url>https://markformelle.by/catalog/zhenshchinam/mf-life/bryuki-leginsy/182442-300-1050/</url>
-                <sort>4</sort>
+                <sort>2</sort>
                 <vendor>Mark Formelle</vendor>
-                <vendorCode>182442</vendorCode>
-                <model>182442</model>
+                <vendorCode>M001617</vendorCode>
+                <model>Расклешенные однотонные брюки с широким поясом в кофейном оттенке</model>
                 <typePrefix>Женские штаны, брюки, леггинсы</typePrefix>
                 <categoryId>1</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Pents</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/b87/2toyqr4s91jf0colf8546qw2sfrsxciz.jpg</picture>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/ccc/704_880_0/yvcka4a3p1zogrp4ejpq00ns63suaunu.jpg</picture>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/ef3/704_880_0/sqr4lb3gd9hv62i14zmp22zznzwtbdha.jpg</picture>
-                <currencyId>BYN</currencyId>
+
+                <rating>5</rating>
+                <reviews_count>2</reviews_count>
+
                 <price>59.99</price>
+                <currencyId>BYN</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
                 <vat>VAT_20</vat>
                 <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Модель">182442</param>
+                <param name="Пол">Женские</param>
+                <param name="Материал">Полиэстер</param>
+                <param name="Материал">Эластан </param>
+                <param name="Цвет" hex="#6f4e37">Кофейный</param>
+
                 <description>Универсальные женские брюки силуэта клеш от колена. Выполнены из качественного и приятного к телу тканого полотна. Особенность модели – широкий пояс и потайная боковая застежка на молнию. Рекомендуем для стильных образов!</description>
             </offer>
-            <offer id="50" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd85">
+            <offer id="122772" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd85">
                 <name>Женский джемпер в рубчик с горловиной-стойкой цвета морской волны</name>
                 <url>https://markformelle.by/catalog/zhenshchinam/mf-life/koftochki-longslivy/dzhempery-kombidresy/122772-417-1050/</url>
-                <sort>5</sort>
+                <sort>1</sort>
                 <vendor>Mark Formelle</vendor>
-                <vendorCode>122772</vendorCode>
-                <model>122772</model>
+                <vendorCode>M001617</vendorCode>
+                <model>Женский джемпер в рубчик с горловиной-стойкой цвета морской волны</model>
                 <typePrefix>Джемпер женский</typePrefix>
                 <categoryId>1</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Cardigans</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/571/fshire4gvs2hkum5boragcu2t0hr1t6v.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/2f4/crovzfwbzl5rolda1ysigoqsyaqr2vsm.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/9b1/jbhzhzykdh4x75cpblwvoi1ppgxr3ibn.jpg</picture>
+
+                <rating>5</rating>
+                <reviews_count>1</reviews_count>
+
                 <currencyId>BYN</currencyId>
                 <price>29.99</price>
+                <oldprice>34.99</oldprice>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
                 <vat>VAT_20</vat>
                 <preorder>true</preorder>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197bc#XS">XS</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197bc#S">S</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197bc#M">M</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197bc#L">L</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197bc#XL">XL</param>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Модель">122772</param>
+                <param name="Пол">Женские</param>
+                <param name="Материал">Вискоза</param>
+                <param name="Материал">Эластан</param>
+                <param name="Цвет" hex="#00ffff">Морская волна</param>
+
                 <description>Джемпер женский однотонный из трикотажного хлопкового полотна в рубчик. Облегающая фигуру модель с воротником-стойкой и длинными рукавами. Комфортный вариант для ваших повседневных образов</description>
             </offer>
-            <offer id="11" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cda1">
+            <offer id="111671" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cda1">
                 <name>Прямая хлопковая футболка белого цвета с принтом и надписью на белорусском</name>
                 <url>https://markformelle.by/catalog/muzhchinam/mf-life/fufayki/futbolki-kollektsionnye/111671-13247-1050/</url>
-                <sort>1</sort>
+                <sort>5</sort>
                 <vendor>Mark Formelle</vendor>
-                <vendorCode>111671</vendorCode>
-                <model>111671</model>
+                <vendorCode>M001617</vendorCode>
+                <model>Прямая хлопковая футболка белого цвета с принтом и надписью на белорусском</model>
                 <typePrefix>Футболка коллекционная</typePrefix>
                 <categoryId>2</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > T-shorts</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/a57/y9829g87598dwbe4pj4tjhswxzignl20.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/948/77plcvly0brs7wiwrjb3lj3xmzk4w67u.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/41e/clskwzknorkxkyrwunqjhvqyn4wxpz3z.jpg</picture>
+
+                <rating>4</rating>
+                <reviews_count>13</reviews_count>
+
                 <currencyId>BYN</currencyId>
                 <price>27.99</price>
+                <oldprice>39.99</oldprice>
+
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
                 <vat>VAT_20</vat>
                 <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Модель">111671</param>
+                <param name="Пол">Мужские</param>
+                <param name="Материал">Хлопок</param>
+                <param name="Цвет" hex="#ffffff">Белый</param>
                 <description>Стильная мужская футболка из трикотажной кулирки – нежного и качественного хлопкового полотна. Длина футболки до середины бедер, силуэт прямой. Вырез классический – круглой формы. Надпись на футболке: "У сваім краю, як у раю". Отлично впишется практически в любой образ!</description>
             </offer>
-            <offer id="21" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cda2">
+            <offer id="111693" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cda2">
                 <name>Хлопковая прямая футболка в оттенке "бордо" с крупным принтом</name>
                 <url>https://markformelle.by/catalog/muzhchinam/mf-life/fufayki/futbolki-kollektsionnye/111693-48732-1079/</url>
-                <sort>2</sort>
+                <sort>4</sort>
                 <vendor>Mark Formelle</vendor>
-                <vendorCode>111693</vendorCode>
-                <model>111693</model>
+                <vendorCode>M001617</vendorCode>
+                <model>Хлопковая прямая футболка в оттенке "бордо" с крупным принтом</model>
                 <typePrefix>Футболка коллекционная</typePrefix>
                 <categoryId>2</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > T-shorts</googleProductCategory>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/bfe/704_880_0/1lso881h8fdoco06jdvkc732jy4g17tm.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/ea4/j7tusjwdvw48b7xo516cd8h9gu1ov5pr.jpg</picture>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/0a2/704_880_0/en1qpywk1tvhsfzg5l4ht6k300vll8y8.jpg</picture>
+
+                <rating>5</rating>
+                <reviews_count>10</reviews_count>
+
                 <currencyId>BYN</currencyId>
                 <price>27.99</price>
+                <oldprice>39.99</oldprice>
+
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
                 <vat>VAT_20</vat>
                 <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Модель">111693</param>
+                <param name="Пол">Мужские</param>
+                <param name="Материал">Хлопок</param>
+                <param name="Цвет" hex="#500000">Бордо</param>
+
                 <description>Мужская футболка из хлопковой кулирки – нежного и легкого трикотажного полотна. Силуэт прямой, расслабленный. Длина классическая. Круглый вырез и короткие рукава. На футболке изображен крупный принт в виде собаки и надпись "Bonjour".</description>
             </offer>
-            <offer id="31" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cda3">
+            <offer id="181234" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cda3">
                 <name>Теплые прямые брюки свободного силуэта в темно-синем цвете</name>
                 <url>https://markformelle.by/catalog/muzhchinam/mf-life/bryuki/181234-13042-57288/</url>
                 <sort>3</sort>
                 <vendor>Mark Formelle</vendor>
-                <vendorCode>181234</vendorCode>
-                <model>181234</model>
+                <vendorCode>M001617</vendorCode>
+                <model>Теплые прямые брюки свободного силуэта в темно-синем цвете</model>
                 <typePrefix>Мужские брюки</typePrefix>
                 <categoryId>2</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/83f/7uozjsue8kjs9tytdgvwlcskcux7gy1e.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/11c/f89qb277exr16ureexowtyu3igjkqpai.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/840/lqi070ycx0oebg84l9yqmq2n3ak2mrh5.jpg</picture>
+
+
                 <currencyId>BYN</currencyId>
                 <price>59.99</price>
+                <oldprice>99.99</oldprice>
+
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
                 <vat>VAT_20</vat>
                 <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Модель">181234</param>
+                <param name="Пол">Мужские</param>
+                <param name="Материал">Хлопок</param>
+                <param name="Материал">Полиэстер</param>
+                <param name="Цвет" hex="#000080">Тёмно-синий</param>
+
                 <description>Прямые мужские брюки из трикотажного футера с теплым подчесом. Силуэт брюк свободный, расслабленный. Пояс с эластичной тесьмой внутри и регулировочным шнуром-затяжкой. Гульфик – имитация. Есть боковые карманы. Рекомендуем!</description>
             </offer>
-            <offer id="41" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cda4">
+            <offer id="121691" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cda4">
                 <name>Хлопковый лонгслив расслабленного силуэта черного цвета</name>
                 <url>https://markformelle.by/catalog/muzhchinam/mf-life/dzhempery-longslivy/dzhempery/121691-13286-18112/</url>
-                <sort>4</sort>
+                <sort>2</sort>
                 <vendor>Mark Formelle</vendor>
-                <vendorCode>121691</vendorCode>
-                <model>121691</model>
+                <vendorCode>M001617</vendorCode>
+                <model>Хлопковый лонгслив расслабленного силуэта черного цвета</model>
                 <typePrefix>Мужской джемпер</typePrefix>
                 <categoryId>2</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/cef/dy5ywmrzj2h0nuk56dq08v1u101mpvao.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/830/nx367b6ys37hetyyh8tjy2w6cuyhkvfm.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/894/ahqez9ujfcnbv63h3k1n1c3jfwdv8f0w.jpg</picture>
+
+
                 <currencyId>BYN</currencyId>
                 <price>39.99</price>
+
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
                 <vat>VAT_20</vat>
+                <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Модель">121691</param>
+                <param name="Пол">Мужские</param>
+                <param name="Материал">Хлопок</param>
+                <param name="Цвет" hex="#000000">Черный </param>
                 <description>Мужской лонгслив из трикотажной хлопковой кулирки. Силуэт прямой и свободный, длина немного ниже середины ягодиц. Вырез круглой формы с обтачкой из рибаны. Линия плеча классическая. Рукава длинные. Стильно!</description>
             </offer>
             <offer id="51" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cda5">
                 <name>Прямые брюки со стрелками графитового цвета в ёлочку</name>
                 <url>https://markformelle.by/catalog/muzhchinam/mf-life/bryuki/181219-73711-1050/</url>
-                <sort>5</sort>
+                <sort>1</sort>
                 <vendor>Mark Formelle</vendor>
-                <vendorCode>181219</vendorCode>
-                <model>181219</model>
+                <vendorCode>M001617</vendorCode>
+                <model>Прямые брюки со стрелками графитового цвета в ёлочку</model>
                 <typePrefix>Мужские брюки</typePrefix>
                 <categoryId>2</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/b6e/yygpxv1ln1za3fzwxp4u2bok31qk67pl.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/354/ewq0nr261bz3othohdm2mez2ctxphjpi.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/791/p9kxw5x41516o5n0g8c1vo2f4wd5tc3s.jpg</picture>
+
+                <rating>5</rating>
+                <reviews_count>1</reviews_count>
+
                 <currencyId>BYN</currencyId>
                 <price>59.99</price>
+
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
                 <vat>VAT_20</vat>
+                <preorder>true</preorder>
+
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Модель">121691</param>
+                <param name="Пол">Мужские</param>
+                <param name="Материал">Полиэстер</param>
+                <param name="Материал">Эластан </param>
+                <param name="Материал">Вискоза</param>
+                <param name="Цвет" hex="#414141">Графит</param>
                 <description>Мужские брюки прямого силуэта из трикотажного академика. Немного заужены к низу. В боковых швах – удобные карманы. Пояс с эластичной тесьмой внутри, регулировочным шнурком-затяжкой и отделочными строчками. Спереди заутюжены и отстрочены стрелки. Стильно!</description>
             </offer>
         </offers>
