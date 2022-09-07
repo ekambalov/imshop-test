@@ -5,8 +5,10 @@
         <company>Mark Formelle</company>
         <url>https://markformelle.by/</url>
         <categories>
-            <category id="1">Женщинам</category>
-            <category id="2">Мужчинам</category>
+            <category id="1" picture="https://markformelle.by/upload/uf/5ac/bhq43or15awxaexukslznqrn3cvkt8o1.webp">Женщинам</category>
+            <category id="2" picture="https://markformelle.by/upload/uf/cb0/e821xcwfbfvmzjjbhm6bg9z80dn871ku.webp">Мужчинам</category>
+            <category id="3" picture="https://markformelle.by/upload/webp/iblock/ae7/2uecup46qh8lbnwft4iqo56ln2n6op4w.webp">Коллекции</category>
+            <category id="201" parentId="2" picture="https://markformelle.by/upload/uf/d34/n1kuwigfuvo135a6qkzx452mywn7ystf.webp">Мужские брюки</category>
         </categories>
         <offers>
             <offer id="132271" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd81">
