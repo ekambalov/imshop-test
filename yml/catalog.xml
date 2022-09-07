@@ -13,9 +13,9 @@
             <category id="201" parentId="2" picture="https://markformelle.by/upload/uf/d34/n1kuwigfuvo135a6qkzx452mywn7ystf.webp">Мужские брюки</category>
             <category id="202" parentId="2" picture="https://markformelle.by/upload/uf/71e/71e96b847cd5ab05b931345bea6fd545.webp">Мужские джемперы</category>
             <category id="203" parentId="2" picture="https://markformelle.by/upload/uf/d6a/4lc83ftck306t56vfskg1efecd1bhf6s.webp">Футболки</category>
-            <category id="301" parentId="3" picture="https://markformelle.by/upload/webp/resize_cache/382/160_160_1/4i2oyi7l02yki4fyiya7obx37knaazcg.webp">Back to school</category>
+            <category id="301" parentId="3" picture="https://markformelle.by/upload/webp/resize_cache/382/160_160_1/4i2oyi7l02yki4fyiya7obx37knaazcg.webp">Школьная коллекция</category>
             <category id="302" parentId="3" picture="https://markformelle.by/upload/webp/resize_cache/823/160_160_1/5c55pcd8i314wggmatbzorg066spoa31.webp">Autumn Vibes</category>
-            <category id="302" parentId="3" picture="https://markformelle.by/upload/webp/resize_cache/5ce/160_160_1/3btcx6l71vvxb3zvh2iyyqzcvs7hpzwg.webp">Джинсы</category>
+            <category id="303" parentId="3" picture="https://markformelle.by/upload/iblock/1c5/031flnppi0xwp26dajg2oymzll11uv4o.jpg">Бельё в рубчик</category>
         </categories>
         <offers>
             <offer id="132271" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd81">
@@ -105,6 +105,7 @@
                 <model>Прилегающий топ в тонкий рубчик в цвете глициния</model>
                 <typePrefix>Топ</typePrefix>
                 <categoryId>102</categoryId>
+                <categoryId>303</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Underwear</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/21f/c8y3gd6k03rb62vzmqrmgsl194wa9yrg.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/0f1/jb348rkqa4iptsmrmz1xqouyqmog16qx.jpg</picture>
@@ -143,6 +144,7 @@
                 <model>Прилегающий топ в тонкий рубчик в цвете обжаренный миндаль</model>
                 <typePrefix>Топ</typePrefix>
                 <categoryId>102</categoryId>
+                <categoryId>303</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Underwear</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/074/f99fsxka6aakxnz55nu4x0drnv0064kn.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/0a4/94wypmb4o5c6em193vhuw8rj6s5y3uqb.jpg</picture>
@@ -181,6 +183,7 @@
                 <model>Прилегающий топ в тонкий рубчик в цвете тауп</model>
                 <typePrefix>Топ</typePrefix>
                 <categoryId>102</categoryId>
+                <categoryId>303</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Underwear</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/9a2/0inrs41auyus8rivf7n3em273inrujdy.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/6fe/r05mxao3f2v30a1r6nvu7tfxfxjlzz64.jpg</picture>
@@ -334,6 +337,7 @@
                 <model>Женский джемпер в рубчик с горловиной-стойкой цвета морской волны</model>
                 <typePrefix>Джемпер женский</typePrefix>
                 <categoryId>101</categoryId>
+                <categoryId>302</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Cardigans</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/571/fshire4gvs2hkum5boragcu2t0hr1t6v.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/2f4/crovzfwbzl5rolda1ysigoqsyaqr2vsm.jpg</picture>
@@ -551,6 +555,52 @@
                 <param name="Цвет" hex="#414141">Графит</param>
                 <description>Мужские брюки прямого силуэта из трикотажного академика. Немного заужены к низу. В боковых швах – удобные карманы. Пояс с эластичной тесьмой внутри, регулировочным шнурком-затяжкой и отделочными строчками. Спереди заутюжены и отстрочены стрелки. Стильно!</description>
             </offer>
+
+
+            <offer id="301" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cdc1">
+                <name>Темно-синий джемпер с манишкой и воротником для мальчиков</name>
+                <url>https://markformelle.by/catalog/detyam/malchikam/mf-life/dzhempery-longslivy/dzhempery/123383-41104-1050/</url>
+                <sort>1</sort>
+                <vendor>Mark Formelle</vendor>
+                <vendorCode>123383</vendorCode>
+                <model>Темно-синий джемпер с манишкой и воротником для мальчиков</model>
+                <typePrefix>Джемпер для мальчиков</typePrefix>
+                <categoryId>301</categoryId>
+                <googleProductCategory>Clothing &amp; Accessories > Clothing</googleProductCategory>
+                <picture>https://markformelle.by/upload/iblock/c52/wc5h8u1hy0ldjlelpxqr3afjpkx6opq1.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/36f/ou8eygwje0ap0l3fmkrou44xsf8ttsza.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/874/3njovzmhwsuskoncs3f19i54821p1wv9.jpg</picture>
+
+                <rating>5</rating>
+                <reviews_count>21</reviews_count>
+
+                <currencyId>BYN</currencyId>
+                <price>26.99</price>
+
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vat>VAT_20</vat>
+                <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#110-56">110-56</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#116-50">116-50</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#122-60">122-60</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#128-64">128-64</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#134-68">134-68</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#140-68">140-68</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#146-72">146-72</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#152-76">152-76</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#158-80">158-80</param>
+
+                <param name="Пол">Мужские</param>
+                <param name="Материал">Хлопок</param>
+                <param name="Материал">Эластан </param>
+                <param name="Цвет" hex="#000080">Синий</param>
+                <description>Прямой джемпер из трикотажного футера для мальчиков. Вырез V-образный, есть декоративная манишка с воротником и планкой на пуговицах. Рукава длинные, с манжетами из рибаны, как и пояс по нижнему краю джемпера. Стильно!</description>
+            </offer>
+
+
         </offers>
         <gifts>
             <!-- подарки не из прайс‑листа -->
