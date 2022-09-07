@@ -14,7 +14,7 @@
             <category id="202" parentId="2" picture="https://markformelle.by/upload/uf/71e/71e96b847cd5ab05b931345bea6fd545.webp">Мужские джемперы</category>
             <category id="203" parentId="2" picture="https://markformelle.by/upload/uf/d6a/4lc83ftck306t56vfskg1efecd1bhf6s.webp">Футболки</category>
             <category id="301" parentId="3" picture="https://markformelle.by/upload/webp/resize_cache/382/160_160_1/4i2oyi7l02yki4fyiya7obx37knaazcg.webp">Back to school</category>
-            <category id="302" parentId="3" picture="https://markformelle.by/upload/webp/resize_cache/823/160_160_1/5c55pcd8i314wggmatbzorg066spoa31.webp">Autumn vibes</category>
+            <category id="302" parentId="3" picture="https://markformelle.by/upload/webp/resize_cache/823/160_160_1/5c55pcd8i314wggmatbzorg066spoa31.webp">Autumn Vibes</category>
             <category id="302" parentId="3" picture="https://markformelle.by/upload/webp/resize_cache/5ce/160_160_1/3btcx6l71vvxb3zvh2iyyqzcvs7hpzwg.webp">Джинсы</category>
         </categories>
         <offers>
@@ -50,14 +50,165 @@
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
 
-                <param name="Модель">132271</param>
                 <param name="Пол">Женские</param>
                 <param name="Материал">Полиэстер</param>
                 <param name="Материал">Эластан </param>
                 <param name="Цвет" hex="#6f4e37">Кофейный</param>
 
-
                 <description>Женские шорты-юбка расширенного силуэта из плотного текстильного полотна. Спереди – декоративная деталь, имитирующая запах. Боковые карманы и эластичная тесьма по поясу добавляют практичности и функциональности. Отличная модель шортов!</description>
+            </offer>
+            <offer id="432227" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd86">
+                <name>Хлопковое боди с длинными рукавами бежевого цвета с принтом "тату"</name>
+                <url>https://markformelle.by/catalog/zhenshchinam/nizhnee-bele/mayki-bodi-komplekty/432227-73007-1050/</url>
+                <sort>5</sort>
+                <vendor>Mark Formelle</vendor>
+                <vendorCode>Модель: 432227</vendorCode>
+                <model>Хлопковое боди с длинными рукавами бежевого цвета с принтом "тату"</model>
+                <typePrefix>Боди</typePrefix>
+                <categoryId>102</categoryId>
+                <googleProductCategory>Clothing &amp; Accessories > Clothing > Underwear</googleProductCategory>
+                <picture>https://markformelle.by/upload/iblock/3dd/q789xgh04wdrl9wvcz0kgdzdoniy63n8.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/a51/lly4ak5nhyta6lb9ythvp1w3qvl1ck84.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/273/rpxlt2mpx8mihqfxqatiev0ivo60izjp.jpg</picture>
+
+                <rating>5</rating>
+                <reviews_count>2</reviews_count>
+
+                <price>27.99</price>
+                <currencyId>BYN</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vat>VAT_20</vat>
+                <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Пол">Женские</param>
+                <param name="Материал">Хлопок</param>
+                <param name="Материал">Эластан </param>
+                <param name="Цвет" hex="#F5F5DC">Бежевый</param>
+
+                <description>Хлопковое женское боди с глубоким вырезом в форме "каре" и длинными рукавами. Снизу застегивается на удобные кнопки-книпперы. Рекомендуем базовую расцветку!</description>
+            </offer>
+
+            <offer id="422514697451050" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd86" group_id="422514">
+                <name>Прилегающий топ в тонкий рубчик в цвете глициния</name>
+                <url>https://markformelle.by/catalog/zhenshchinam/nizhnee-bele/mayki-bodi-komplekty/422514-69745-1050/</url>
+                <sort>5</sort>
+                <vendor>Mark Formelle</vendor>
+                <vendorCode>422514</vendorCode>
+                <model>Прилегающий топ в тонкий рубчик в цвете глициния</model>
+                <typePrefix>Топ</typePrefix>
+                <categoryId>102</categoryId>
+                <googleProductCategory>Clothing &amp; Accessories > Clothing > Underwear</googleProductCategory>
+                <picture>https://markformelle.by/upload/iblock/21f/c8y3gd6k03rb62vzmqrmgsl194wa9yrg.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/0f1/jb348rkqa4iptsmrmz1xqouyqmog16qx.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/327/ksho38j0zsm0kkhrb2bxuoz8yinnb9qa.jpg</picture>
+                <othercolors>422514</othercolors>
+                <rating>5</rating>
+                <reviews_count>11</reviews_count>
+
+                <price>17.99</price>
+                <currencyId>BYN</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vat>VAT_20</vat>
+                <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Пол">Женские</param>
+                <param name="Материал">Вискоза</param>
+                <param name="Материал">Эластан </param>
+                <param name="Цвет" hex="#6900C6">Глициния</param>
+
+                <description>Стильный женский топ из рибаны – в тонкий рубчик. Прилегающий силуэт подчеркивает женственность фигуры. Отсутствие декоративных деталей делает этот топ универсальным и максимально комфортным. Рекомендуем!</description>
+            </offer>
+            <offer id="422514487661050" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd87" group_id="422514">
+                <name>Прилегающий топ в тонкий рубчик в цвете обжаренный миндаль</name>
+                <url>https://markformelle.by/catalog/zhenshchinam/nizhnee-bele/mayki-bodi-komplekty/422514-48766-1050/</url>
+                <sort>5</sort>
+                <vendor>Mark Formelle</vendor>
+                <vendorCode>422514</vendorCode>
+                <model>Прилегающий топ в тонкий рубчик в цвете обжаренный миндаль</model>
+                <typePrefix>Топ</typePrefix>
+                <categoryId>102</categoryId>
+                <googleProductCategory>Clothing &amp; Accessories > Clothing > Underwear</googleProductCategory>
+                <picture>https://markformelle.by/upload/iblock/074/f99fsxka6aakxnz55nu4x0drnv0064kn.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/0a4/94wypmb4o5c6em193vhuw8rj6s5y3uqb.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/d2e/rt0mycjluj4qza770iy9cexp24vv26sv.jpg</picture>
+                <othercolors>422514</othercolors>
+                <rating>4</rating>
+                <reviews_count>11</reviews_count>
+
+                <price>17.99</price>
+                <currencyId>BYN</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vat>VAT_20</vat>
+                <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Пол">Женские</param>
+                <param name="Материал">Вискоза</param>
+                <param name="Материал">Эластан </param>
+                <param name="Цвет" hex="#F5F5DC">Обжаренный миндаль</param>
+
+                <description>Стильный женский топ из рибаны – в тонкий рубчик. Прилегающий силуэт подчеркивает женственность фигуры. Отсутствие декоративных деталей делает этот топ универсальным и максимально комфортным. Рекомендуем!</description>
+            </offer>
+            <offer id="422514532531050" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd88" group_id="422514">
+                <name>Прилегающий топ в тонкий рубчик в цвете тауп</name>
+                <url>https://markformelle.by/catalog/zhenshchinam/nizhnee-bele/mayki-bodi-komplekty/422514-53253-1050/</url>
+                <sort>3</sort>
+                <vendor>Mark Formelle</vendor>
+                <vendorCode>422514</vendorCode>
+                <model>Прилегающий топ в тонкий рубчик в цвете тауп</model>
+                <typePrefix>Топ</typePrefix>
+                <categoryId>102</categoryId>
+                <googleProductCategory>Clothing &amp; Accessories > Clothing > Underwear</googleProductCategory>
+                <picture>https://markformelle.by/upload/iblock/9a2/0inrs41auyus8rivf7n3em273inrujdy.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/6fe/r05mxao3f2v30a1r6nvu7tfxfxjlzz64.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/5ce/vbevuw32nrwmc5klvcyane4kfpp4imf4.jpg</picture>
+                <othercolors>422514</othercolors>
+                <rating>2</rating>
+                <reviews_count>11</reviews_count>
+
+                <price>17.99</price>
+                <currencyId>BYN</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vat>VAT_20</vat>
+                <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Пол">Женские</param>
+                <param name="Материал">Вискоза</param>
+                <param name="Материал">Эластан </param>
+                <param name="Цвет" hex="#64504c">Тауп</param>
+
+                <description>Стильный женский топ из рибаны – в тонкий рубчик. Прилегающий силуэт подчеркивает женственность фигуры. Отсутствие декоративных деталей делает этот топ универсальным и максимально комфортным. Рекомендуем!</description>
             </offer>
 
             <offer id="172081" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd82">
@@ -92,7 +243,6 @@
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
 
-                <param name="Модель">172081</param>
                 <param name="Пол">Женские</param>
                 <param name="Материал">Полиэстер</param>
                 <param name="Материал">Эластан </param>
@@ -131,7 +281,6 @@
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
 
-                <param name="Модель">112664</param>
                 <param name="Пол">Женские</param>
                 <param name="Материал">Хлопок</param>
                 <param name="Цвет" hex="#333333">Тёмно-серый</param>
@@ -169,7 +318,6 @@
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
 
-                <param name="Модель">182442</param>
                 <param name="Пол">Женские</param>
                 <param name="Материал">Полиэстер</param>
                 <param name="Материал">Эластан </param>
@@ -209,7 +357,6 @@
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
 
-                <param name="Модель">122772</param>
                 <param name="Пол">Женские</param>
                 <param name="Материал">Вискоза</param>
                 <param name="Материал">Эластан</param>
@@ -250,7 +397,6 @@
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
 
-                <param name="Модель">111671</param>
                 <param name="Пол">Мужские</param>
                 <param name="Материал">Хлопок</param>
                 <param name="Цвет" hex="#ffffff">Белый</param>
@@ -289,7 +435,6 @@
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
 
-                <param name="Модель">111693</param>
                 <param name="Пол">Мужские</param>
                 <param name="Материал">Хлопок</param>
                 <param name="Цвет" hex="#500000">Бордо</param>
@@ -310,7 +455,6 @@
                 <picture>https://markformelle.by/upload/iblock/11c/f89qb277exr16ureexowtyu3igjkqpai.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/840/lqi070ycx0oebg84l9yqmq2n3ak2mrh5.jpg</picture>
 
-
                 <currencyId>BYN</currencyId>
                 <price>59.99</price>
                 <oldprice>99.99</oldprice>
@@ -327,7 +471,6 @@
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
 
-                <param name="Модель">181234</param>
                 <param name="Пол">Мужские</param>
                 <param name="Материал">Хлопок</param>
                 <param name="Материал">Полиэстер</param>
@@ -349,7 +492,6 @@
                 <picture>https://markformelle.by/upload/iblock/830/nx367b6ys37hetyyh8tjy2w6cuyhkvfm.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/894/ahqez9ujfcnbv63h3k1n1c3jfwdv8f0w.jpg</picture>
 
-
                 <currencyId>BYN</currencyId>
                 <price>39.99</price>
 
@@ -365,7 +507,6 @@
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
 
-                <param name="Модель">121691</param>
                 <param name="Пол">Мужские</param>
                 <param name="Материал">Хлопок</param>
                 <param name="Цвет" hex="#000000">Черный </param>
@@ -403,7 +544,6 @@
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
                 <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
 
-                <param name="Модель">121691</param>
                 <param name="Пол">Мужские</param>
                 <param name="Материал">Полиэстер</param>
                 <param name="Материал">Эластан </param>
