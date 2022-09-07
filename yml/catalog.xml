@@ -52,6 +52,47 @@
 
                 <description>Женские шорты-юбка расширенного силуэта из плотного текстильного полотна. Спереди – декоративная деталь, имитирующая запах. Боковые карманы и эластичная тесьма по поясу добавляют практичности и функциональности. Отличная модель шортов!</description>
             </offer>
+            <offer id="1322711" available="true" uuid="a43c03a5-3d1d-5791-a9a5-1ef95438cd81">
+                <name>Женские шорты Mark Formelle Женские шорты-юбка длины мини в кофейном цвете</name>
+                <url>https://markformelle.by/catalog/zhenshchinam/mf-life/shorty-bridzhi/132271-300-1050/</url>
+                <sort>5</sort>
+                <vendor>Mark Formelle</vendor>
+                <vendorCode>M001617</vendorCode>
+                <model>Женские шорты Mark Formelle Женские шорты-юбка длины мини в кофейном цвете</model>
+                <typePrefix>Женские шорты</typePrefix>
+                <categoryId>1</categoryId>
+                <googleProductCategory>Clothing &amp; Accessories > Clothing > Skits</googleProductCategory>
+                <picture>https://markformelle.by/upload/resize_cache/iblock/7bc/704_880_0/dnejopw5yctsqz2a8ygbykacl0er38gx.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/5d7/ff0mqy8h3sfxyc3xhtzkggz8jb6jryy7.jpg</picture>
+                <picture>https://markformelle.by/upload/iblock/567/azphbi774eqdbu86s2t0nkfl737dz1s5.jpg</picture>
+
+                <rating>5</rating>
+                <reviews_count>2</reviews_count>
+
+                <price>29.99</price>
+                <oldprice>39.99</oldprice>
+                <currencyId>BYN</currencyId>
+                <store>true</store>
+                <pickup>true</pickup>
+                <delivery>true</delivery>
+                <vat>VAT_20</vat>
+                <preorder>true</preorder>
+
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
+                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
+
+                <param name="Модель">132271</param>
+                <param name="Пол">Женские</param>
+                <param name="Материал">Полиэстер</param>
+                <param name="Материал">Эластан </param>
+                <param name="Цвет" hex="#6f4e37">Кофейный</param>
+
+
+                <description>Женские шорты-юбка расширенного силуэта из плотного текстильного полотна. Спереди – декоративная деталь, имитирующая запах. Боковые карманы и эластичная тесьма по поясу добавляют практичности и функциональности. Отличная модель шортов!</description>
+            </offer>
             <offer id="172081" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd82">
                 <name>Укороченный прямой жакет в молочно-лавандовую клетку виши</name>
                 <url>https://markformelle.by/catalog/zhenshchinam/mf-life/koftochki-longslivy/zhakety/172081-73305-1050/</url>
