@@ -8,7 +8,14 @@
             <category id="1" picture="https://markformelle.by/upload/uf/5ac/bhq43or15awxaexukslznqrn3cvkt8o1.webp">Женщинам</category>
             <category id="2" picture="https://markformelle.by/upload/uf/cb0/e821xcwfbfvmzjjbhm6bg9z80dn871ku.webp">Мужчинам</category>
             <category id="3" picture="https://markformelle.by/upload/webp/iblock/ae7/2uecup46qh8lbnwft4iqo56ln2n6op4w.webp">Коллекции</category>
+            <category id="101" parentId="1" picture="https://markformelle.by/upload/uf/914/0ecx586mf8ngaepq6zd57thqii2np64i.webp">Верхняя одежда</category>
+            <category id="102" parentId="1" picture="https://markformelle.by/upload/uf/b46/1ms6y12rl3xz9jgleys8jwsub5lxdn2c.webp">Нижнее белье</category>
             <category id="201" parentId="2" picture="https://markformelle.by/upload/uf/d34/n1kuwigfuvo135a6qkzx452mywn7ystf.webp">Мужские брюки</category>
+            <category id="202" parentId="2" picture="https://markformelle.by/upload/uf/71e/71e96b847cd5ab05b931345bea6fd545.webp">Мужские джемперы</category>
+            <category id="203" parentId="2" picture="https://markformelle.by/upload/uf/d6a/4lc83ftck306t56vfskg1efecd1bhf6s.webp">Футболки</category>
+            <category id="301" parentId="3" picture="https://markformelle.by/upload/webp/resize_cache/382/160_160_1/4i2oyi7l02yki4fyiya7obx37knaazcg.webp">Back to school</category>
+            <category id="302" parentId="3" picture="https://markformelle.by/upload/webp/resize_cache/823/160_160_1/5c55pcd8i314wggmatbzorg066spoa31.webp">Autumn vibes</category>
+            <category id="302" parentId="3" picture="https://markformelle.by/upload/webp/resize_cache/5ce/160_160_1/3btcx6l71vvxb3zvh2iyyqzcvs7hpzwg.webp">Джинсы</category>
         </categories>
         <offers>
             <offer id="132271" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd81">
@@ -19,7 +26,7 @@
                 <vendorCode>M001617</vendorCode>
                 <model>Женские шорты Mark Formelle Женские шорты-юбка длины мини в кофейном цвете</model>
                 <typePrefix>Женские шорты</typePrefix>
-                <categoryId>1</categoryId>
+                <categoryId>101</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Skits</googleProductCategory>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/7bc/704_880_0/dnejopw5yctsqz2a8ygbykacl0er38gx.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/5d7/ff0mqy8h3sfxyc3xhtzkggz8jb6jryy7.jpg</picture>
@@ -52,47 +59,7 @@
 
                 <description>Женские шорты-юбка расширенного силуэта из плотного текстильного полотна. Спереди – декоративная деталь, имитирующая запах. Боковые карманы и эластичная тесьма по поясу добавляют практичности и функциональности. Отличная модель шортов!</description>
             </offer>
-            <offer id="1322711" available="true" uuid="a43c03a5-3d1d-5791-a9a5-1ef95438cd81">
-                <name>Женские шорты Mark Formelle Женские шорты-юбка длины мини в кофейном цвете</name>
-                <url>https://markformelle.by/catalog/zhenshchinam/mf-life/shorty-bridzhi/132271-300-1050/</url>
-                <sort>5</sort>
-                <vendor>Mark Formelle</vendor>
-                <vendorCode>M001617</vendorCode>
-                <model>Женские шорты Mark Formelle Женские шорты-юбка длины мини в кофейном цвете</model>
-                <typePrefix>Женские шорты</typePrefix>
-                <categoryId>1</categoryId>
-                <googleProductCategory>Clothing &amp; Accessories > Clothing > Skits</googleProductCategory>
-                <picture>https://markformelle.by/upload/resize_cache/iblock/7bc/704_880_0/dnejopw5yctsqz2a8ygbykacl0er38gx.jpg</picture>
-                <picture>https://markformelle.by/upload/iblock/5d7/ff0mqy8h3sfxyc3xhtzkggz8jb6jryy7.jpg</picture>
-                <picture>https://markformelle.by/upload/iblock/567/azphbi774eqdbu86s2t0nkfl737dz1s5.jpg</picture>
 
-                <rating>5</rating>
-                <reviews_count>2</reviews_count>
-
-                <price>29.99</price>
-                <oldprice>39.99</oldprice>
-                <currencyId>BYN</currencyId>
-                <store>true</store>
-                <pickup>true</pickup>
-                <delivery>true</delivery>
-                <vat>VAT_20</vat>
-                <preorder>true</preorder>
-
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XS">XS</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#S">S</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#M">M</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#L">L</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#XL">XL</param>
-
-                <param name="Модель">132271</param>
-                <param name="Пол">Женские</param>
-                <param name="Материал">Полиэстер</param>
-                <param name="Материал">Эластан </param>
-                <param name="Цвет" hex="#6f4e37">Кофейный</param>
-
-
-                <description>Женские шорты-юбка расширенного силуэта из плотного текстильного полотна. Спереди – декоративная деталь, имитирующая запах. Боковые карманы и эластичная тесьма по поясу добавляют практичности и функциональности. Отличная модель шортов!</description>
-            </offer>
             <offer id="172081" available="true" uuid="a43c03a5-3d1d-5791-b9a5-1ef95438cd82">
                 <name>Укороченный прямой жакет в молочно-лавандовую клетку виши</name>
                 <url>https://markformelle.by/catalog/zhenshchinam/mf-life/koftochki-longslivy/zhakety/172081-73305-1050/</url>
@@ -101,7 +68,7 @@
                 <vendorCode>M001617</vendorCode>
                 <model>Укороченный прямой жакет в молочно-лавандовую клетку виши</model>
                 <typePrefix>Жакет</typePrefix>
-                <categoryId>1</categoryId>
+                <categoryId>101</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Outerwear > Coats &amp; Jackets</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/9c0/69uts2vihllnjhsu124qxv4qrgxrnail.jpg</picture>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/b1e/704_880_0/scmuv00iosnhpkeusiqcsre0ijj7966k.jpg</picture>
@@ -141,7 +108,7 @@
                 <vendorCode>M001617</vendorCode>
                 <model>Укороченная свободная футболка в оттенке "темно-серый фаст-дай"</model>
                 <typePrefix>Женские футболки и топы</typePrefix>
-                <categoryId>1</categoryId>
+                <categoryId>101</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > T-shorts</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/481/r4otc7rkatra2c9n220ugmjjqt5ea3c0.jpg</picture>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/00e/704_880_0/hl48ghe34umb7cgsf6d1uqah050olyh7.jpg</picture>
@@ -179,7 +146,7 @@
                 <vendorCode>M001617</vendorCode>
                 <model>Расклешенные однотонные брюки с широким поясом в кофейном оттенке</model>
                 <typePrefix>Женские штаны, брюки, леггинсы</typePrefix>
-                <categoryId>1</categoryId>
+                <categoryId>101</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Pents</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/b87/2toyqr4s91jf0colf8546qw2sfrsxciz.jpg</picture>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/ccc/704_880_0/yvcka4a3p1zogrp4ejpq00ns63suaunu.jpg</picture>
@@ -218,7 +185,7 @@
                 <vendorCode>M001617</vendorCode>
                 <model>Женский джемпер в рубчик с горловиной-стойкой цвета морской волны</model>
                 <typePrefix>Джемпер женский</typePrefix>
-                <categoryId>1</categoryId>
+                <categoryId>101</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > Cardigans</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/571/fshire4gvs2hkum5boragcu2t0hr1t6v.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/2f4/crovzfwbzl5rolda1ysigoqsyaqr2vsm.jpg</picture>
@@ -258,7 +225,7 @@
                 <vendorCode>M001617</vendorCode>
                 <model>Прямая хлопковая футболка белого цвета с принтом и надписью на белорусском</model>
                 <typePrefix>Футболка коллекционная</typePrefix>
-                <categoryId>2</categoryId>
+                <categoryId>203</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > T-shorts</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/a57/y9829g87598dwbe4pj4tjhswxzignl20.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/948/77plcvly0brs7wiwrjb3lj3xmzk4w67u.jpg</picture>
@@ -297,7 +264,7 @@
                 <vendorCode>M001617</vendorCode>
                 <model>Хлопковая прямая футболка в оттенке "бордо" с крупным принтом</model>
                 <typePrefix>Футболка коллекционная</typePrefix>
-                <categoryId>2</categoryId>
+                <categoryId>203</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing > T-shorts</googleProductCategory>
                 <picture>https://markformelle.by/upload/resize_cache/iblock/bfe/704_880_0/1lso881h8fdoco06jdvkc732jy4g17tm.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/ea4/j7tusjwdvw48b7xo516cd8h9gu1ov5pr.jpg</picture>
@@ -337,7 +304,7 @@
                 <vendorCode>M001617</vendorCode>
                 <model>Теплые прямые брюки свободного силуэта в темно-синем цвете</model>
                 <typePrefix>Мужские брюки</typePrefix>
-                <categoryId>2</categoryId>
+                <categoryId>201</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/83f/7uozjsue8kjs9tytdgvwlcskcux7gy1e.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/11c/f89qb277exr16ureexowtyu3igjkqpai.jpg</picture>
@@ -376,7 +343,7 @@
                 <vendorCode>M001617</vendorCode>
                 <model>Хлопковый лонгслив расслабленного силуэта черного цвета</model>
                 <typePrefix>Мужской джемпер</typePrefix>
-                <categoryId>2</categoryId>
+                <categoryId>202</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/cef/dy5ywmrzj2h0nuk56dq08v1u101mpvao.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/830/nx367b6ys37hetyyh8tjy2w6cuyhkvfm.jpg</picture>
@@ -412,7 +379,7 @@
                 <vendorCode>M001617</vendorCode>
                 <model>Прямые брюки со стрелками графитового цвета в ёлочку</model>
                 <typePrefix>Мужские брюки</typePrefix>
-                <categoryId>2</categoryId>
+                <categoryId>201</categoryId>
                 <googleProductCategory>Clothing &amp; Accessories > Clothing</googleProductCategory>
                 <picture>https://markformelle.by/upload/iblock/b6e/yygpxv1ln1za3fzwxp4u2bok31qk67pl.jpg</picture>
                 <picture>https://markformelle.by/upload/iblock/354/ewq0nr261bz3othohdm2mez2ctxphjpi.jpg</picture>
