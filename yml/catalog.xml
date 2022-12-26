@@ -603,7 +603,21 @@
                 <param name="Цвет" hex="#000080">Синий</param>
                 <description>Прямой джемпер из трикотажного футера для мальчиков. Вырез V-образный, есть декоративная манишка с воротником и планкой на пуговицах. Рукава длинные, с манжетами из рибаны, как и пояс по нижнему краю джемпера. Стильно!</description>
             </offer>
-
+            <offer id="1639" available="true" uuid="2812435">
+                <categoryId>303</categoryId>
+                <barcode>4678599380337</barcode>
+                <name>Atoderm Гель Интенсив Пробник, 8 мл</name>
+                <url>https://naos.ru/bioderma/catalog/podarok_bioderma/probnik_atoderm_gel_intensiv/</url>
+                <sort>0</sort>
+                <vendor>Bioderma</vendor>
+                <model>Atoderm Гель Интенсив Пробник, 8 мл</model>
+                <purchasable>false</purchasable>
+                <currencyId>RUR</currencyId>
+                <vendorCode>2812435</vendorCode>
+                <price>0</price>
+                <param name="Объём">8 мл</param>
+                <picture>https://naos.ru/upload/iblock/327/xrkb4qzjin6x71rxlh1b8feeo7oyloed.jpg</picture>
+            </offer>
 
         </offers>
         <gifts>
