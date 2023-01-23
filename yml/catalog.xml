@@ -587,15 +587,15 @@
                 <vat>VAT_20</vat>
                 <preorder>true</preorder>
 
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#110-56">110-56</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#116-50">116-50</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#122-60">122-60</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#128-64">128-64</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#134-68">134-68</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#140-68">140-68</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#146-72">146-72</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#152-76">152-76</param>
-                <param name="Размер" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#158-80">158-80</param>
+                <param name="Номинал" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#110-56">110-56</param>
+                <param name="Номинал" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#116-50">116-50</param>
+                <param name="Номинал" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#122-60">122-60</param>
+                <param name="Номинал" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#128-64">128-64</param>
+                <param name="Номинал" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#134-68">134-68</param>
+                <param name="Номинал" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#140-68">140-68</param>
+                <param name="Номинал" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#146-72">146-72</param>
+                <param name="Номинал" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#152-76">152-76</param>
+                <param name="Номинал" configurationId="a8974b77-c662-11e4-80c1-40f2e9a197ba#158-80">158-80</param>
 
                 <param name="Пол">Мужские</param>
                 <param name="Материал">Хлопок</param>
